@@ -28,35 +28,5 @@
     "id": 5,
     "title": "Bring beg",
     "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 6,
-    "title": "bla bla bla",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 7,
-    "title": "abcdefghijklmn",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 8,
-    "title": "quo adipisci enim quam ut ab",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 9,
-    "title": "molestiae perspiciatis ipsa",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 10,
-    "title": "illo est ratione doloremque quia maiores aut",
-    "completed": false
   }
 ]
